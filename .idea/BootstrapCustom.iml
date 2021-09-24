@@ -8,5 +8,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Chart" level="application" />
+    <orderEntry type="library" name="Chart.bundle" level="application" />
+    <orderEntry type="library" name="tether" level="application" />
+    <orderEntry type="library" name="popper" level="application" />
+    <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="lazysizes" level="application" />
   </component>
 </module>
